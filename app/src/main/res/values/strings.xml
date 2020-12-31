@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Our Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+
+
+    //welcome screen
+    <string name="agree_n_continue">Tap "Agree and continue" to accept the Our Chat Terms of Service and Privacy Policy.</string>
+
+
+    //verify screen
+    <string name="verify_phone_msg">Our Chat will send and SMS message to verify your phone number. Enter your country code and phone number.</string>
+    <string-array name="spinner_country">
+        <item>India</item>
+    </string-array>
+
+
+    // create user
+    <string name="profile_info_msg">Please provide your name and an optional profile photo</string>
+
+
+    // user list  screen
+    <string name="activity_user_list_label">Select a contact</string>
+
+</resources>
